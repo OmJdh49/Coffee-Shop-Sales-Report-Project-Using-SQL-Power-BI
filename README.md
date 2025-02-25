@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Report-Project-Using-SQL-Power-BI
+## Coffee-Shop-Sales-Report-Project-Using-SQL-Power-BI
 SQL:-
 1.CONVERT DATE (transaction_date) COLUMN TO PROPER DATE FORMAT
 2. ALTER DATE (transaction_date) COLUMN TO DATE DATA TYPE
